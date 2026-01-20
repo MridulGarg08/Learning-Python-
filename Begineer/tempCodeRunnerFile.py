@@ -1,2 +1,4 @@
-marks=[80,90,70,65,85]
-# marks.
+def greetme(Name):
+#     print(f"Hello {Name}")
+
+# greetme("Mridul Garg")
