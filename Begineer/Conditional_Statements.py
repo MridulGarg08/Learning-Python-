@@ -18,4 +18,4 @@ else:
 #     down_payment=0.2*price
 
 # print(down_payment)
-    
+
